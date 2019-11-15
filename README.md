@@ -14,3 +14,6 @@ https://learn.unity.com/project/vr-in-unity-a-beginner-s-guide
 
 Unity VR Optimering - VR Best Practice
 https://learn.unity.com/tutorial/vr-best-practice
+
+VRTK Slack - for svar der ikke kan findes andre steder
+http://invite.vrtk.io/
